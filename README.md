@@ -1,7 +1,7 @@
 #### Hi there, I'm Taiwo 👋
 
 
-I'm an Application Engineer and a fledgling AWS Cloud DevOps Practitioner
+I'm an Application Engineer and a fledgling AWS Cloud DevOps Engineer
 
    - 👨‍💻 I’m passionate about the cloud, particulary automation in the cloud
    - 🎻 Outside of work, I love exploring places and nature; I also love to counsel and mentor younger ones to be balanced (spiritually,career,family,Health) 
