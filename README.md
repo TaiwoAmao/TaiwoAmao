@@ -10,14 +10,21 @@ I'm an Application Engineer and an AWS Cloud DevOps Practitioner
    - ⚡ Fun fact: Never smoked; never drunk
    - 🌱 I’m currently learning DevOps
    - 👯 I’m looking to collaborate on Aws Cloud projects
-   
-   
-   
-#### Connect with me:
-      
-     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-amao/)
 
 
 
+   
+   
+   
+___
+
+
+#### 📕 Latest Writings
+
+- [CRUD API: HTTP API, LAMBDA, DYNAMODB](https://amaotaiwo08.medium.com/crud-api-http-api-lambda-dynamodb-c6137d2e3bf3)
+- [GRANT ACCESS TO AWS S3 SECURELY: CloudFront Distribution](https://medium.com/@amaotaiwo08/grant-access-to-aws-s3-securely-cloudfront-distribution-2a8a9e29eb43)
+
+
+  
 
 
