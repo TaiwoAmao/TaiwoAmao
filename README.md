@@ -4,7 +4,7 @@
 I'm an Application Engineer and an AWS Cloud DevOps Practitioner
 
    - 👨‍💻 I’m passionate about the cloud, particulary automation in the cloud
-   - 🎻 Outside of work, I love exploring places and nature; I also love to counsel and mentor younger ones to be balanced (:church:	, :technologist:	, :family_man_woman_girl:	, Socially,                  Health) 
+   - 🎻 Outside of work, I love exploring places and nature; I also love to counsel and mentor younger ones to be balanced (spiritually,career,family,Health) 
    - 🥅 2023 Goals: get a job as a DevOps Engineer and earn in six-figures
    - 🐱 I have 2 brothers, the younger one is a certified medical doctor and my twin is an educationist
    - ⚡ Fun fact: Never smoked; never drunk
