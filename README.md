@@ -13,7 +13,7 @@ I'm an Application Engineer and a Cloud DevOps Engineer
 
 
 #### 📕 Education
-I am open to a graduate assistantship in Computer Science; interest in Distributed systems, systemn design, and cloud computing.
+I am open to graduate assistantship in Computer Science; interest are in these are areas: Distributed systems, systemn design, and cloud computing.
    
    
    
