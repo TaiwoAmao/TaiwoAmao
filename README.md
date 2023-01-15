@@ -12,7 +12,8 @@ I'm an Application Engineer and a Cloud DevOps Engineer
    - 👯 I’m looking to collaborate on Aws Cloud projects
 
 
-
+#### 📕 Education
+I am open to a graduate assistantship in Computer Science; interest in Distributed systems, systemn design, and cloud computing.
    
    
    
