@@ -8,7 +8,7 @@ I'm an Application Engineer and a Cloud DevOps Engineer
    - 🥅 2023 Goals: get a job as a Application/Cloud Engineer in a Fintech.
    - 🐱 I have 2 brothers, the younger one is a certified medical doctor and my twin is an educationist
    - ⚡ Fun fact: Never smoked; never drunk
-   - 🌱 I’m currently learning DevOps
+   - 🌱 I’m currently applying myself in the area of cloud DevOps
    - 👯 I’m looking to collaborate on Aws Cloud projects
 
 
