@@ -3,17 +3,15 @@
 
 I'm an Application Engineer and a Cloud Engineer
 
-   - 👨‍💻 I’m passionate about the cloud, particularly continuous integration and continuous delivery in the cloud
-   - 🎻 Outside of work, I love exploring places and nature; I also love to counsel and mentor younger ones to be balanced (spiritually,career, family, Health) 
+   - 👨‍💻 I’m passionate about the cloud, particularly cloud automation, cloud migration, and cloud security.
+   - 🎻 Outside of work, I love exploring places and nature; I also love to counsel and mentor younger ones to be balanced (spiritually, career, family, Health) 
    - 🥅 2023 Goals: get a job as an Application/Cloud Engineer in a Fintech.
    - 🐱 I have 2 brothers, the younger one is a certified medical doctor and my twin is an educationist
-   - ⚡ Fun fact: Never smoked; never drunk
-   - 🌱 I’m currently applying myself in the area of cloud DevOps
    - 👯 I’m looking to collaborate on Aws Cloud projects
 
 
 #### 📕 Education
-I am open to graduate assistantship in Computer Science; interest are in these are areas: Distributed systems, systemn design, and cloud computing.
+I am open to a graduate assistantship in Computer Science; my interests are in these areas: Distributed systems, system design, and cloud computing.
    
    
    
