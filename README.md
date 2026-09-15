@@ -1,7 +1,7 @@
 #### Hi there, I'm Taiwo 👋
 
 
-I'm an Application Engineer and a Cloud Engineer
+I'm an Application Engineer, SRE, and a Cloud Engineer
 
    - 👨‍💻 I’m passionate about the cloud, particularly cloud automation, cloud migration, and cloud security.
    - 🎻 Outside of work, I love exploring places and nature; I also love to counsel and mentor younger ones to be balanced (spiritually, career, family, Health) 
